@@ -25,7 +25,6 @@ Digital IC design · Secure AI accelerators · Post-silicon validation
 |---|---|
 | [Digital-Communication-IC-Design](https://github.com/SamChang03/Digital-Communication-IC-Design) | Graduate course: Digital Communication IC Design |
 | [SOC_Lab](https://github.com/SamChang03/SOC_Lab) | Hands-on SoC design labs from the NTHU SoC course |
-| [Advanced-SOC-Design](https://github.com/SamChang03/Advanced-SOC-Design) | Advanced SoC Design labs |
 | [Logic-Design-Lab](https://github.com/SamChang03/Logic-Design-Lab) | Logic Design Laboratory (Verilog, FPGA) |
 | [NTHU-Racing-generally-electrical-course](https://github.com/SamChang03/NTHU-Racing-generally-electrical-course) | Electrical onboarding course I ran for NTHU Racing |
 
