@@ -24,7 +24,10 @@ Digital IC design · Secure AI accelerators · Post-silicon validation
 | Repository | Topic |
 |---|---|
 | [Digital-Communication-IC-Design](https://github.com/SamChang03/Digital-Communication-IC-Design) | Graduate course: OFDM baseband from split-radix FFT to RTL, plus a 2×2 MIMO-OFDM receiver (MATLAB, Verilog, FPGA/ASIC) |
+| [IC-Design-Lab](https://github.com/SamChang03/IC-Design-Lab) | EE4292 IC Design Lab: ROP3 engine, Enigma machine, QR code decoder, and an ECDSA (secp256k1) signing engine taken through layout |
+| [VLSI-Testing](https://github.com/SamChang03/VLSI-Testing) | Graduate VLSI Testing: transition-delay-fault ATPG in C++, scan insertion and ATPG in TetraMAX, and logic BIST with speed grading |
 | [SOC_Lab](https://github.com/SamChang03/SOC_Lab) | Hands-on SoC design labs from the NTHU SoC course |
+| [Communication-System-Lab](https://github.com/SamChang03/Communication-System-Lab) | Software-defined radio on the NI USRP using LabVIEW: modulation, pulse shaping, timing recovery, CFO correction, and a key-fob receiver |
 | [Logic-Design-Lab-TA](https://github.com/SamChang03/Logic-Design-Lab-TA) | Reference designs I wrote as TA for Logic Design Lab (2025 Verilog, 2026 SystemVerilog) |
 | [Logic-Design-Lab](https://github.com/SamChang03/Logic-Design-Lab) | My own Logic Design Lab coursework on the Basys 3 FPGA, ending in a Flappy Bird game on VGA |
 | [NTHU-Racing-generally-electrical-course](https://github.com/SamChang03/NTHU-Racing-generally-electrical-course) | Electrical onboarding course I ran for NTHU Racing (logic, circuits, op-amps, semiconductors) |
