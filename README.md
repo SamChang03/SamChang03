@@ -23,10 +23,11 @@ Digital IC design · Secure AI accelerators · Post-silicon validation
 
 | Repository | Topic |
 |---|---|
-| [Digital-Communication-IC-Design](https://github.com/SamChang03/Digital-Communication-IC-Design) | Graduate course: Digital Communication IC Design |
+| [Digital-Communication-IC-Design](https://github.com/SamChang03/Digital-Communication-IC-Design) | Graduate course: OFDM baseband from split-radix FFT to RTL, plus a 2×2 MIMO-OFDM receiver (MATLAB, Verilog, FPGA/ASIC) |
 | [SOC_Lab](https://github.com/SamChang03/SOC_Lab) | Hands-on SoC design labs from the NTHU SoC course |
-| [Logic-Design-Lab](https://github.com/SamChang03/Logic-Design-Lab) | Logic Design Laboratory (Verilog, FPGA) |
-| [NTHU-Racing-generally-electrical-course](https://github.com/SamChang03/NTHU-Racing-generally-electrical-course) | Electrical onboarding course I ran for NTHU Racing |
+| [Logic-Design-Lab-TA](https://github.com/SamChang03/Logic-Design-Lab-TA) | Reference designs I wrote as TA for Logic Design Lab (2025 Verilog, 2026 SystemVerilog) |
+| [Logic-Design-Lab](https://github.com/SamChang03/Logic-Design-Lab) | My own Logic Design Lab coursework on the Basys 3 FPGA, ending in a Flappy Bird game on VGA |
+| [NTHU-Racing-generally-electrical-course](https://github.com/SamChang03/NTHU-Racing-generally-electrical-course) | Electrical onboarding course I ran for NTHU Racing (logic, circuits, op-amps, semiconductors) |
 
 <div align="center">
 
